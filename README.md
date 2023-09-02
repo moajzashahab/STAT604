@@ -1,2 +1,1 @@
-# STAT604
-Stat 604 Homework
+# Stat 604 Homework
